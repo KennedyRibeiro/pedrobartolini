@@ -27,5 +27,3 @@ While my expertise lies mainly in **JavaScript** and **Go**, I am always curious
 </div>
 <br>
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pedrobartolini&show_icons=true&theme=dracula&count_private=true)
