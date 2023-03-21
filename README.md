@@ -1,4 +1,3 @@
-# About me
 I am a developer who places great emphasis on writing high-performance and readable code. I strive to write code that is simple, efficient, and easy to maintain, while also ensuring that it is performant.
 
 My primary interests lie in back-end development, including networking, databases, and CLI applications.
@@ -6,7 +5,7 @@ My primary interests lie in back-end development, including networking, database
 While my expertise lies mainly in JavaScript and Go, I am always curious and eager to learn new languages and technologies!
 
 
-### `🧰 Current tools`
+### `🧰 Current toolset`
 <br>
 <div style="display:flex; gap: 55px;">
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
