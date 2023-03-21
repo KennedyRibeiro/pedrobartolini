@@ -1,10 +1,10 @@
 # About me
 
-I am a developer who places great emphasis on writing high-performance and readable code. I strive to write code that is simple, efficient, and easy to maintain, while also ensuring that it is performant.
+I am a developer who places great emphasis on writing **high-performance** and **readable** code. I strive to write code that is simple, efficient, and easy to maintain, while also ensuring that it is performant.
 
-My primary interests lie in back-end development, including networking, databases, and CLI applications.
+My primary interests lie in **back-end** development, including networking, databases, and CLI applications.
 
-While my expertise lies mainly in JavaScript and Go, I am always curious and eager to learn new languages and technologies!
+While my expertise lies mainly in **JavaScript** and **Go**, I am always curious and eager to learn **new technologies**!
 
 
 ### `🧰 Current toolset`
