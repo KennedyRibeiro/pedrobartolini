@@ -4,7 +4,7 @@ I am a developer who places great emphasis on writing **high-performance** and *
 
 My primary interests lie in **back-end** development, including networking, databases, and CLI applications.
 
-While my expertise lies mainly in **JavaScript** and **Go**, I am always curious and eager to learn **new technologies**!
+While my expertise lies mainly in **JavaScript** and **Go**, I am always curious and eager to learn **new technologies** and **solve problems**!
 <br>
 
 ## `📚 Languages`
