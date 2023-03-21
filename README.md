@@ -5,10 +5,9 @@ I am a developer who places great emphasis on writing **high-performance** and *
 My primary interests lie in **back-end** development, including networking, databases, and CLI applications.
 
 While my expertise lies mainly in **JavaScript** and **Go**, I am always curious and eager to learn **new technologies**!
-
-
-### `🧰 Current toolset`
 <br>
+
+## `📚 Current Skillset`
 <div style="display:flex; gap: 55px;">
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;    
