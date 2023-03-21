@@ -34,6 +34,3 @@ While my expertise lies mainly in **JavaScript** and **Go**, I am always curious
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />&nbsp;
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" />&nbsp;
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;
-          
-          
-          
