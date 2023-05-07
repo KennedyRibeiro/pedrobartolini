@@ -16,7 +16,7 @@ While my expertise lies mainly in **JavaScript** and **Go**, I am always curious
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />&nbsp;
           
-          
+
 ## `🔧 Toolset`
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />&nbsp;
@@ -33,8 +33,6 @@ While my expertise lies mainly in **JavaScript** and **Go**, I am always curious
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />&nbsp;
 
           
-
-
 ## `🔎 Have interest in`
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />&nbsp;
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />&nbsp;
